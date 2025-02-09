@@ -138,5 +138,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 For any questions or feedback, please contact:
-- **Email:** [charantejdonthireddy@@gmail.com](mailto:charantej@gmail.com)
-```
+- **Email:** [charantejdonthireddy@gmail.com](mailto:charantej@gmail.com)
